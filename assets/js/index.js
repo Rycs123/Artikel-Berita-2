@@ -8,7 +8,7 @@ $(document).ready(function () {
             name: "Data Bank Syariah Indonesia Diduga Bocor, Pakar Imbau Nasabah Ganti Password dan Pin ATM",
             imgSrc: "https://images.unsplash.com/photo-1624969862644-791f3dc98927?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=2070",
             desc: "Baca artikel ini",
-            url: "./pages/single_page.html",
+            url: "../../pages/single_page.html",
         },
         {
             id: 2,
@@ -16,7 +16,7 @@ $(document).ready(function () {
             name: "Hacker Bjorka is Back, Data Apa Saja yang Pernah Dibocorkan?",
             imgSrc: "https://images.unsplash.com/photo-1563206767-5b18f218e8de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80",
             desc: "Baca artikel ini",
-            url: "./pages/page2.html",
+            url: "../../pages/page2.html",
         },
         {
             id: 3,
@@ -24,7 +24,7 @@ $(document).ready(function () {
             name: "Raditya Dika Pusing Akun YouTube Miliknya Diretas",
             imgSrc: "https://images.unsplash.com/photo-1529465230221-a0d10e46fcbb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             desc: "Baca artikel ini",
-            url: "./pages/page3.html",
+            url: "../../pages/page3.html",
         },
         {
             id: 4,
@@ -32,7 +32,7 @@ $(document).ready(function () {
             name: "Hacker 16 Tahun Bobol Database Kejagung, Motifnya Iseng!",
             imgSrc: "https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             desc: "Baca artikel ini",
-            url: "./pages/page4.html",
+            url: "../../pages/page4.html",
         },
         {
             id: 5,
@@ -40,7 +40,7 @@ $(document).ready(function () {
             name: "28.000 Data Polri Disebut Bocor, Ini Analisis Pengamat",
             imgSrc: "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             desc: "Baca artikel ini",
-            url: "./pages/page5.html",
+            url: "../../pages/page5.html",
         },
         {
             id: 6,
@@ -48,7 +48,7 @@ $(document).ready(function () {
             name: "Kronologi Dugaan Kebocoran Data eHAC Kemenkes",
             imgSrc: "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             desc: "Baca artikel ini",
-            url: "./pages/page6.html",
+            url: "../../pages/page6.html",
         },
         {
             id: 7,
@@ -56,7 +56,7 @@ $(document).ready(function () {
             name: "Dalih Peretasan Situs KPU di Balik Transparansi Suara Pilkada",
             imgSrc: "https://images.unsplash.com/photo-1568027762272-e4da8b386fe9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
             desc: "Baca artikel ini",
-            url: "./pages/page7.html",
+            url: "../../pages/page7.html",
         },
         {
             id: 8,
@@ -64,7 +64,7 @@ $(document).ready(function () {
             name: "Cerita Remaja 19 Tahun Peretas Situs Tiket.com dan Raup Hampir Rp 1 Miliar",
             imgSrc: "https://images.unsplash.com/photo-1519241047957-be31d7379a5d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             desc: "Baca artikel ini",
-            url: "./pages/page8.html",
+            url: "../../pages/page8.html",
         },
         {
             id: 9,
@@ -72,7 +72,7 @@ $(document).ready(function () {
             name: "Cerita Lengkap Bocornya 91 Juta Data Akun Tokopedia",
             imgSrc: "https://images.unsplash.com/photo-1537770846878-f79ea627a64b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             desc: "Baca artikel ini",
-            url: "./pages/page9.html",
+            url: "../../pages/page9.html",
         },
         {
             id: 10,
@@ -80,7 +80,7 @@ $(document).ready(function () {
             name: "Pakar Ulas Peretasan Situs DPR Jadi 'Dewan Penghianat Rakyat",
             imgSrc: "https://images.unsplash.com/photo-1504639725590-34d0984388bd?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1974",
             desc: "Baca artikel ini",
-            url: "./pages/page10.html",
+            url: "../../pages/page10.html",
         },
         {
             id: 11,
@@ -88,7 +88,7 @@ $(document).ready(function () {
             name: "Begini Kronologi Peretasan Situs Berita Tempo.co hingga Kembali Pulih",
             imgSrc: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             desc: "Baca artikel ini",
-            url: "./pages/page11.html",
+            url: "../../pages/page11.html",
         },
         {
             id: 12,
@@ -96,7 +96,7 @@ $(document).ready(function () {
             name: "Kronologi dan Motif Peretasan Situs Setkab oleh Dua Remaja...",
             imgSrc: "https://images.unsplash.com/photo-1562813733-b31f71025d54?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=2069",
             desc: "Baca artikel ini",
-            url: "./pages/page12.html",
+            url: "../../pages/page12.html",
         },
         {
             id: 13,
@@ -104,7 +104,7 @@ $(document).ready(function () {
             name: "BPJS Kesehatan Akui Ada Kemungkinan Peretasan Data 279 Juta Warga RI",
             imgSrc: "https://images.unsplash.com/photo-1544890225-2f3faec4cd60?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1925",
             desc: "Baca artikel ini",
-            url: "./pages/page13.html",
+            url: "../../pages/page13.html",
         },
         {
             id: 14,
@@ -112,7 +112,7 @@ $(document).ready(function () {
             name: "BRI Life Beberkan Hasil Investigasi Data Nasabah Bocor",
             imgSrc: "https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             desc: "Baca artikel ini",
-            url: "./pages/page14.html",
+            url: "../../pages/page14.html",
         },
         {
             id: 15,
@@ -120,7 +120,7 @@ $(document).ready(function () {
             name: "Analisis Ahli Terkait YouTube BNPB Diretas",
             imgSrc: "https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             desc: "Baca artikel ini",
-            url: "../pages/page15.html",
+            url: "../../pages/page15.html",
         },
     ];
 
